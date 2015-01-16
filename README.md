@@ -7,7 +7,7 @@ File | Description
 M1   | Parsing a simple expression.
 M2   | Parsing nested expressions.
 M3   | Buiding an AST.
-M4   | Evaluatint and AST.
+M4   | Evaluating and AST.
 M5   | Introducing an environment.
 M6   | Handling more than two arguments.
 M7   | Introducing anonymous functions.
