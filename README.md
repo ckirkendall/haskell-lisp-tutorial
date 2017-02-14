@@ -1,6 +1,6 @@
 # Adventures in Haskell
 
-## Tutorial on implementing a lisp in haskel.
+## Tutorial on implementing a lisp in Haskell.
 
 File | Description
 -----|----------------------------
